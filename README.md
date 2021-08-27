@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k-e-s-h-a-v
 - 👀 I’m interested in AI, ML & Quantum Computing
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me keshav.rajsspn@gmail.com
 
