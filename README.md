@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Keshav
-### I'm a Friend, Student, Developer and a forking idiot!!
+### I'm a Friend, Student, Developer and a forking idiot !!
 - 👀 I’m interested in AI, ML & Quantum Computing
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on any/many things
