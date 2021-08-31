@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me keshav.rajsspn@gmail.com
-- 
 
 <!---
 k-e-s-h-a-v/k-e-s-h-a-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
