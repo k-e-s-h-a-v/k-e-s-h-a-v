@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Keshav
-### I'm a Friend, Student, Developer and a forking idiot !!
+### I'm a Friend, Learner, Developer and a forking idiot !!
 - 👀 I’m interested in AI, ML & Quantum Computing
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on any/many things
+- 🌱 I’m currently learning Browsers
+- 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me keshav.rajsspn@gmail.com
-- ⚡ Fun fact: I love to sleep
+- ⚡ I like to sketch
 
 ### Connect with me:
 
