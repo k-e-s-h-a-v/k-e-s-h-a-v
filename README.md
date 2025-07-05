@@ -29,6 +29,14 @@
 <br />
 <br />
 
+### VS Code Extension: Code Folder Summary
+<a href="https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.code-folder-summary"><img src="https://raw.githubusercontent.com/k-e-s-h-a-v/code-folder-summary/main/images/code-folder-summary.png" alt="Code Folder Summary Icon" width="50px" align="left"></a> Check out my VS Code extension, **Code Folder Summary**,\
+ which provides a quick, beautiful overview of the file types in your project.
+ 
+[Get it on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.code-folder-summary)
+
+<br />
+
 ### Resume: [View  PDF](https://k-e-s-h-a-v.github.io/k-e-s-h-a-v/)
 
 ![Resume](output/resume.jpg)
