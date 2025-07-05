@@ -29,11 +29,17 @@
 <br />
 <br />
 
+### Resume: [View  PDF](https://k-e-s-h-a-v.github.io/k-e-s-h-a-v/)
+
+![Resume](output/resume.jpg)
+
+<br />
+
 ---
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-e-s-h-a-v&repo=github-readme-stats)](https://github.com/k-e-s-h-a-v/github-readme-stats) -->
 
 
-[youtube]: https://www.youtube.com/channel/UC_vPYA_-DmKBZRIxQSxvLSQ
+[youtube]: https://www.youtube.com/@keshav_raj
 [linkedin]: https://www.linkedin.com/in/k-e-s-h-a-v/
 
 <!---
