@@ -6,10 +6,18 @@
 - 📫 How to reach me keshav.rajsspn@gmail.com
 - ⚡ I like to sketch
 
+
+### My VS Code Extension: Code Folder Summary
+<a href="https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.code-folder-summary"><img src="https://raw.githubusercontent.com/k-e-s-h-a-v/code-folder-summary/main/images/code-folder-summary.png" alt="Code Folder Summary Icon" width="50px" align="left"></a> Check out my VS Code extension, **Code Folder Summary**,\
+ which provides a quick, beautiful overview of the file types in your project.
+
+[Get it on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.code-folder-summary)
+
+
 ### Connect with me:
 
-[<img align="left" alt="keshav | YouTube" width="22px" fill="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="keshav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.youtube.com/@keshav_raj" target="_blank"><img align="left" alt="YouTube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" /></a>
+<a href="https://www.linkedin.com/in/k-e-s-h-a-v/" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 <br />
 
@@ -27,17 +35,9 @@
 
 
 <br />
-<br />
 
-### VS Code Extension: Code Folder Summary
-<a href="https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.code-folder-summary"><img src="https://raw.githubusercontent.com/k-e-s-h-a-v/code-folder-summary/main/images/code-folder-summary.png" alt="Code Folder Summary Icon" width="50px" align="left"></a> Check out my VS Code extension, **Code Folder Summary**,\
- which provides a quick, beautiful overview of the file types in your project.
- 
-[Get it on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.code-folder-summary)
 
-<br />
-
-### Resume: [View  PDF](https://k-e-s-h-a-v.github.io/k-e-s-h-a-v/)
+### Resume: [View Full Size PDF](https://k-e-s-h-a-v.github.io/k-e-s-h-a-v/)
 
 ![Resume](output/resume.jpg)
 
