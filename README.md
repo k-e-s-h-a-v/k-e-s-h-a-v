@@ -16,8 +16,15 @@
 
 ### Connect with me:
 
-<a href="https://www.youtube.com/@keshav_raj" target="_blank"><img align="left" alt="YouTube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" /></a>
-<a href="https://www.linkedin.com/in/k-e-s-h-a-v/" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+
+<div style="display: flex; align-items: center; justify-content: flex-start; width: 100%;">
+  <a href="https://www.youtube.com/@keshav_raj" target="_blank" style="margin-right: 12px;">
+    <img alt="YouTube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/k-e-s-h-a-v/" target="_blank">
+    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+</div>
 
 <br />
 
