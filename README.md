@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Keshav
-### I'm a Friend, Learner, Developer and a forking idiot !!
+### I'm a Developer and a forking idiot !!
 - 👀 I’m interested in UI and Data Engineering
 - 🌱 I’m currently learning Browsers & Apache Superset
 - 💞️ I’m looking to collaborate on large projects
