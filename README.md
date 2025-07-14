@@ -1,21 +1,31 @@
 # 👋 Hi there, I'm Keshav
 ### I'm a Friend, Learner, Developer and a forking idiot !!
-- 👀 I’m interested in AI, ML & Quantum Computing
-- 🌱 I’m currently learning Browsers
-- 💞️ I’m looking to collaborate on small projects
+- 👀 I’m interested in UI and Data Engineering
+- 🌱 I’m currently learning Browsers & Apache Superset
+- 💞️ I’m looking to collaborate on large projects
 - 📫 How to reach me keshav.rajsspn@gmail.com
 - ⚡ I like to sketch
 
 
-### My VS Code Extension: Code Folder Summary
-<a href="https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.code-folder-summary"><img src="https://raw.githubusercontent.com/k-e-s-h-a-v/code-folder-summary/main/images/code-folder-summary.png" alt="Code Folder Summary Icon" width="50px" align="left"></a> Check out my VS Code extension, **Code Folder Summary**,\
- which provides a quick, beautiful overview of the file types in your project.
+## My VS Code Extensions:
 
-[Get it on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.code-folder-summary)
+### Explorer++
+<a href="https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.explorer-plus"><img src="https://raw.githubusercontent.com/k-e-s-h-a-v/explorer-plus/refs/heads/main/icons/explorer-plus.png" alt="Explorer Plus Icon" width="50px" align="left"></a> &nbsp; Shows file sizes and folder in webview.\
+&nbsp; [Get it on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.explorer-plus)
 
+
+### Code Folder Summary
+<a href="https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.code-folder-summary"><img src="https://raw.githubusercontent.com/k-e-s-h-a-v/code-folder-summary/main/images/code-folder-summary.png" alt="Code Folder Summary Icon" width="50px" align="left"></a>&nbsp; Provides a quick, beautiful overview of the file types in your project.\
+&nbsp; [Get it on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.code-folder-summary)
+
+### FS++
+<a href="https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.file-size-and-count"><img src="https://raw.githubusercontent.com/k-e-s-h-a-v/file-size/refs/heads/main/icons/fs%2B%2B.png" alt="FS++ Icon" width="50px" height ="60px" align="left"></a>&nbsp;Show file sizes and folder item counts directly in the VS Code Explorer.\
+&nbsp;[Get it on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=k-e-s-h-a-v.file-size-and-count)
+
+<br>
+<hr>
 
 ### Connect with me:
-
 
 <div style="display: flex; align-items: center; justify-content: flex-start; width: 100%;">
   <a href="https://www.youtube.com/@keshav_raj" target="_blank" style="margin-right: 12px;">
